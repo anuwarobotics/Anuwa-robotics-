@@ -4,7 +4,7 @@ Para visualizar correctamente los esquemas de nuestro equipo, es necesario utili
 
 > **Nota:** Recomendamos encarecidamente utilizar la versión **1.0.6** para evitar errores de visualización.
 
-## 🛠️ Guía de configuración
+## Guía de configuración
 
 Para abrir los archivos correctamente, sigue estos pasos:
 
