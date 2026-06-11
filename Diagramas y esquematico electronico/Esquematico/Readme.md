@@ -17,3 +17,5 @@ Para abrir los archivos correctamente, sigue estos pasos:
 2. **Abrir el esquemático:**
    - Una vez importados los componentes, abre el archivo principal `.fzz`.
    - En la parte superior de la ventana, cambia la vista de **"Placa de pruebas"** a **"Esquemático"** para visualizar el diagrama desde la pestaña en que fué diseñado.
+
+> De igual forma todos los esquematicos tienen *pre visualizadores* desde los cuales podran observar el png de forma mas rápida y completamente online
