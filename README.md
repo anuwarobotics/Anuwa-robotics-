@@ -1,5 +1,5 @@
 # Anuwa Robotics
-![Logo](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Recursos%20de%20imagen/Logo%20anuwa.jpeg)
+![Logo]([https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Recursos%20de%20imagen/Logo%20anuwa.jpeg](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Recursos%20de%20imagen/Banner%20anuwa.png))
 ## Lista de contenidos
 - [⚡ Esquematicos electrónicos](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20y%20esquematico%20electronico/Esquematico)
    - [💡 Ariyuu](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20y%20esquematico%20electronico/Esquematico/Ariyuu)
