@@ -20,3 +20,6 @@ a el movimiento se tefiere decidimos usar una segunda microcomputadora
 - **Esp32**: Es el microcontrolador que utilizamos en cada una de nuestras unidades debido a que nos permite hacer uso de la
 plataforma **IoT** de forma nativa, ademas su velocidad de reloj a 240mhz nos permite hacer calculos pesados
 
+## Imagen de pre visualizacion
+![Imagen de pre visualizacion](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/3700c23610644ceacee655607f4d7b731abbb822/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/Sensores.svg)
+
