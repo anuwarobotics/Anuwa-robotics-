@@ -1,8 +1,8 @@
 # Anuwa Robotics
-![Logo](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Recursos%20de%20imagen/Banner%20anuwa.png)
+![Logo](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Recursos/Banner%20anuwa.png)
 ---
 ## Nuestro equipo
-El equipo [Anuwa Robotics](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Recursos/Banner%20anuwa.png) está conformado por 3 estudiantes del [Colegio Salto Ángel](https://www.instagram.com/colegiosaltoangel/?hl=es)
+El equipo [Anuwa Robotics](https://www.instagram.com/p/DWMsaMdAgXd/) está conformado por 3 estudiantes del [Colegio Salto Ángel](https://www.instagram.com/colegiosaltoangel/?hl=es)
 la distribución de roles se relizó de esta forma:
 - **Jesús Montilla**: Con 15 años de edad es el líder del equipo y encargado de electronica y programación
 - **Delvis Paz**: Con 13 años de edad es encargado de diseños y impresiones en 3d en la plataforma de Solidworks
