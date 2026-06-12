@@ -1,6 +1,4 @@
 # Diagramas de flujo de códigos
-## Imagen de guia
-![Imagen](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Diagramas%20de%20flujo%20codigos/Diagrama%20flujo%20joroi.png)
 
 ## ¿Qué plataforma utilizamos?
 Los diagramas de flujo de nuestro equipo se realizaron en la plataforma [**Whismical**](https://whimsical.com/) , desde
@@ -29,3 +27,6 @@ haremos en **HTML, CSS y Javascript** para poder personalizar al maximo el *loca
 
 > La comunicación entre unidades se realizará por *ESPNOW* esto nos permite tener una telemetria estable al ser el sistema de
 comunicacion desarrollado por espressif
+
+## Imagen de guia
+![Imagen](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Diagramas%20de%20flujo%20codigos/Diagrama%20flujo%20joroi.png)
