@@ -13,7 +13,7 @@ la distribución de roles se relizó de esta forma:
    - [💡 Ariyuu](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20y%20esquematico%20electronico/Esquematico/Ariyuu)
    - [💡 Arusha](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20y%20esquematico%20electronico/Esquematico/Arusha)
    - [💡 Joroi](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20y%20esquematico%20electronico/Esquematico/Joroi)
-   - [💡 Palafito](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20y%20esquematico%20electronico/Esquematico/Palafito)
+   - [💡 Apiña](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20y%20esquematico%20electronico/Esquematico/Api%C3%B1a)
 - [🛠️ Lista de componentes](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes)
    - [🔌 Actuadores](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/Actuadores.svg)
    - [🔌 Fuentes de alimentación](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/Fuentes%20de%20alimentacion.svg)
