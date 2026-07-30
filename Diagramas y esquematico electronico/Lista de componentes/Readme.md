@@ -24,7 +24,7 @@ plataforma **IoT** de forma nativa, además su velocidad de reloj a 240mhz nos p
 ### Sensores
 ![Imagen](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/fa2d567a8b49f7defc7bcc0292b13f8fe3e1803b/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/SVGs/Actuadores.svg)  
 ### Actuadores
-![Imagen](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/fa2d567a8b49f7defc7bcc0292b13f8fe3e1803b/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/SVGs/Sensores.svg)
+![Imagen](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/dec60705393ac7d2dcf4c2bd5a2206a7185d1924/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/SVGs/Actuadores.svg)
 ### Microcontroladores y Microcomputadoras
 ![Imagen](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/fa2d567a8b49f7defc7bcc0292b13f8fe3e1803b/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/SVGs/Microcontroladores%20y%20microcomputadoras.svg)
 ### Fuentes de alimentación
