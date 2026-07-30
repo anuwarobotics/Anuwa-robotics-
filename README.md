@@ -80,6 +80,8 @@ El pueblo Añú, conocidos como *paraujanos* y la *gente de agua*, representa un
 A pesar de su valor, la cultura Añú está al borde de la extinción total por la pérdida de su idioma y sus costumbres. Durante nuestro trabajo de campo en Santa Rosa de Agua, notamos un contraste claro: los ancianos de la comunidad poseen una excelente destreza manual al tocar sus instrumentos tradicionales, mientras que los niños y jóvenes han cambiado esa agilidad por movimientos repetitivos y limitados frente a pantallas táctiles.
 
 Decidimos abordar este problema porque la robótica no debe alejarnos de nuestra historia ni atrofiar nuestras capacidades físicas. La música Añú exige ritmo, precisión y coordinación, convirtiéndose en el estímulo mecánico perfecto para la rehabilitación física. Con Anuwa demostramos que la robótica y la inteligencia artificial pueden trabajar en conjunto para devolverle a los jóvenes la movilidad de sus manos mientras rescatan su patrimonio cultural.
+
+
 ![Imagen de referencia](https://imgs.search.brave.com/vDzJjcZ6lEPcZKv5MW9ldOFgjkAE7NHNjrQZy1IN6fM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNy8w/OS8wNy8yMS8zNi9z/dGlsdC1ob3VzZXMt/MjcyNjgxNV82NDAu/anBn)
 
 
