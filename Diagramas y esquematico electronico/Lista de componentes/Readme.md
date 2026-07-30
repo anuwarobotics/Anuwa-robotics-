@@ -18,7 +18,14 @@ en ella utilizamos aceleracion y optimizacion haciendo uso de la plataforma ***C
 de otra forma Ariyuu tendria que ser cableado para poder transmitir video, pero para darle la mayor autonomia en cuanto
 a el movimiento se tefiere decidimos usar una segunda microcomputadora
 - **Esp32**: Es el microcontrolador que utilizamos en cada una de nuestras unidades debido a que nos permite hacer uso de la
-plataforma **IoT** de forma nativa, ademas su velocidad de reloj a 240mhz nos permite hacer calculos pesados
+plataforma **IoT** de forma nativa, además su velocidad de reloj a 240mhz nos permite hacer calculos pesados
 
-## Imagen de pre visualizacion
-![Imagen de pre visualizacion](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/3700c23610644ceacee655607f4d7b731abbb822/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/Sensores.svg)
+## Imagenes de la lista de componentes
+### Sensores
+![Imagen](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/fa2d567a8b49f7defc7bcc0292b13f8fe3e1803b/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/SVGs/Actuadores.svg)  
+### Actuadores
+![Imagen](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/fa2d567a8b49f7defc7bcc0292b13f8fe3e1803b/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/SVGs/Sensores.svg)
+### Microcontroladores y Microcomputadoras
+![Imagen](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/fa2d567a8b49f7defc7bcc0292b13f8fe3e1803b/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/SVGs/Microcontroladores%20y%20microcomputadoras.svg)
+### Fuentes de alimentación
+![Imagen](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/fa2d567a8b49f7defc7bcc0292b13f8fe3e1803b/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/SVGs/Fuentes%20de%20alimentacion.svg)
