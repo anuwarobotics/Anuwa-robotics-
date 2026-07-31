@@ -21,7 +21,7 @@ ademas al ser 100% online y no requierir de instalaciones nos permite trabajar d
 
 Para implementar estos diagramas en nuestro sistema robotico programaremos las placas esp32 en **C++** en Arduino ide debido a que
 nos ofrece un punto medio de abstracción, no es tanta como micropython permitiendo optimizar el codigo pero no tan bajo nivel como
-assembly o similares lo cual nos permite ahorrar tiempo de desarrollo. La Nvidia Jetson AGX Orin y se desarrollaron con
+assembly o similares lo cual nos permite ahorrar tiempo de desarrollo. La Nvidia Jetson AGX Orin se desarrollo con
  **Python** para poder ejecutar los modelos de IA en la plataforma donde son estandar, por otro lado la pantalla HMI fue programada con un backend en **Python** mientras que el frontend se realizo en **HTML, CSS y Javascript** debido a sus aportes a la estetica
 
 > La comunicación entre unidades se realizará por *ESPNOW* esto nos permite tener una telemetria estable al ser el sistema de
