@@ -23,6 +23,7 @@ la distribución de roles se relizó de esta forma:
    - [🖥️ Ariyuu](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagramas%20de%20flujo%20codigos/Diagrama%20flujo%20Ariyuu.png)
    - [🖥️ Arusha](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagramas%20de%20flujo%20codigos/Diagrama%20flujo%20Arusha.png)
    - [🖥️ Joroi](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagramas%20de%20flujo%20codigos/Diagrama%20flujo%20joroi.png)
+   - [🖥️ Apiña](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagramas%20de%20flujo%20codigos/Diagrama%20de%20flujo%20Api%C3%B1a.png)
 - [🎨 Diseños 3d](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Dise%C3%B1os%203d)
    - [🤖 Ariyuu](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Dise%C3%B1os%203d/Ariyuu)
    - [🤖 Arusha](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Dise%C3%B1os%203d/Arusha)
@@ -37,6 +38,7 @@ Orden de carpetas
 |  └── 📸 Diagrama flujo Ariyuu.png ───────> Diagrama de flujo que explica la lógica
 |  └── 📸 Diagrama flujo Arusha.png ───────> Diagrama de flujo que explica la lógica
 |  └── 📸 Diagrama flujo Joroi.png  ───────> Diagrama de flujo que explica la lógica
+|  └── 📸 Diagrama flujo Apiña.png  ───────> Diagrama de flujo que explica la lógica
 |  └── 📖 Readme.md  ───────> Readme explicando por que la plataforma, implementacion y pre visualizador
 |
 ├──📁 Diagramas y esquematico electronico
@@ -44,7 +46,7 @@ Orden de carpetas
 |  |   └──📁 Ariyuuu ───────> Contiene los archivos de fritzing internamente junto a un pre visualizador de PNG como readme
 |  |   └──📁 Joroi ───────> Contiene los archivos de fritzing internamente junto a un pre visualizador de PNG como readme
 |  |   └──📁 Arusha ───────> Contiene los archivos de fritzing internamente junto a un pre visualizador de PNG como readme
-|  |   └──📁 Palafito ───────> Contiene los archivos de fritzing internamente junto a un pre visualizador de PNG como readme
+|  |   └──📁 Apiña ───────> Contiene los archivos de fritzing internamente junto a un pre visualizador de PNG como readme
 |  |   └──📖 Readme.md  ───────> Guia de configuracion de fritzing para poder abrir los archivos correctamente
 |  |
 |  └── 📁 Lista de componentes
@@ -58,6 +60,7 @@ Orden de carpetas
 |   └──📁 Ariyuu ───────> Contiene en formato de imagen la lista de diseños
 |   └──📁 Joroi ───────> Contiene en formato de imagen la lista de diseños
 |   └──📁 Arusha ───────> Contiene en formato de imagen la lista de diseños
+|   └──📁 Apiña ───────> Contiene en formato de imagen la lista de diseños
 |   └──📖 Readme.md ───────> Explicacion muy breve de la plataforma y pre visualizador
 |
 |
