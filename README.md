@@ -28,6 +28,7 @@ la distribución de roles se relizó de esta forma:
    - [🤖 Ariyuu](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Dise%C3%B1os%203d/Ariyuu)
    - [🤖 Arusha](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Dise%C3%B1os%203d/Arusha)
    - [🤖 Joroi](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Dise%C3%B1os%203d/Joroi)
+   - [🤖 Apiña](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Dise%C3%B1os%203d/Api%C3%B1a/Api%C3%B1a%201.jpeg)
   
   
 ```
