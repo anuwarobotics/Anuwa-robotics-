@@ -70,7 +70,7 @@ Orden de carpetas
 ## Nuestro proyecto 
 El pueblo Añú enfrenta un punto de no retorno: el 95% de su legado cultural e histórico se ha perdido y actualmente solo queda un hablante nativo. Esta grave crisis de identidad coexiste en paralelo con un problema de salud  moderno, provocado por el uso excesivo y pasivo de pantallas digitales, lo cual ha generado un déficit de aproximadamente el 18% en la motricidad fina y coordinación neuromuscular en las nuevas generaciones.
 
-Bajo la tematica *Robots meet Culture* de la WRO 2026, **Anuwa** nace como un sistema robótico compuesto por tres unidades autónomas e interconectadas (Arusha, Joroi y Ariyuu). Nuestra solución utiliza el hardware de precisión, la automatización mecánica y la inteligencia artificial distribuida localmente para transformar la exposición digital pasiva en una terapia de rehabilitación física activa. A través de la ejecución de instrumentos tradicionales y la gamificación de la música autóctona, Anuwa restaura la agilidad manual en los jóvenes mientras reconstruye la memoria viva de una cultura fundamental para nuestro país 🇻🇪.
+Bajo la tematica *Robots meet Culture* de la WRO 2026, **Anuwa** nace como un sistema robótico compuesto por cuatro unidades autónomas e interconectadas (Arusha, Apiña, Joroi y Ariyuu). Nuestra solución utiliza el hardware de precisión, la automatización mecánica y la inteligencia artificial distribuida localmente para transformar la exposición digital pasiva en una terapia de rehabilitación física activa. A través de la ejecución de instrumentos tradicionales y la gamificación de la música autóctona, Anuwa restaura la agilidad manual en los jóvenes mientras reconstruye la memoria viva de una cultura fundamental para nuestro país 🇻🇪.
 
 ---
 
@@ -89,7 +89,7 @@ Decidimos abordar este problema porque la robótica no debe alejarnos de nuestra
 
 ## ¿Como esta compuesto nuestro sistema?
 Anuwa se compone de 4 unidades las cuales son 
-- [Arusha](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Dise%C3%B1os%203d/Arusha/Arusha%201.png): Nuestra caja cultural la cual logra tocar instrumentos tradicionales de la etnia añu, siendo estos un shaker, un toc toc (que simula el golpe al palafito) y un xilofono (que simula el golpe a las conchas de caracol), ademas cuenta con 3 tupos de lecciones en su pantalla HMI, permitiendo de esta forma aprender de idioma, lenguaje y tradiciones, arusha sirve como un complemento para **Joroi**.
+- [Arusha](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Dise%C3%B1os%203d/Arusha/Arusha%201.png): Nuestra caja cultural la cual logra tocar instrumentos tradicionales de la etnia añu, siendo estos un shaker, un toc toc (que simula el golpe al palafito) y un xilofono (que simula el golpe a las conchas de caracol), ademas cuenta con 3 tipos de lecciones en su pantalla HMI, permitiendo de esta forma aprender de idioma, lenguaje y tradiciones, arusha sirve como un complemento para **Joroi**.
   
 - [Joroi](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Dise%C3%B1os%203d/Joroi/Joroi%205.jpeg): Nuestra flauta interactiva, es utilizada por el usuario para estimular la conexion entre cortezas auditivas y motoras, mejorando los problemas de motricidad fina, esto reespaldado por un estudio publicado por la [Oxford University Press](https://academic.oup.com/cercor/article-abstract/27/5/2768/3056341?login=false)
 
