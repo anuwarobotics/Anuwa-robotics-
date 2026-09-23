@@ -2,7 +2,7 @@
 ![Logo](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Recursos/Banner%20anuwa.png)
 ---
 ## Our Team
-The [Anuwa Robotics](https://www.instagram.com/p/DWMsaMdAgXd/) team consists of 3 students from [Colegio Salto Ángel](https://www.instagram.com/colegiosaltoangel/?hl=es). 
+The [Anuwa Robotics](https://www.instagram.com/p/DWMsaMdAgXd/) team consists of 3 students from [Salto Angel School](https://www.instagram.com/colegiosaltoangel/?hl=es). 
 Role distribution was assigned as follows:
 - **Jesús Montilla**: 15 years old, Team Leader, in charge of electronics and programming.
 - **Delvis Paz**: 13 years old, in charge of 3D designs and printing using SolidWorks.
@@ -34,29 +34,29 @@ Role distribution was assigned as follows:
 Folder Structure
 👥 Anuwa Robotics
 |
-├──📁 Diagramas de flujo codigos
-|   └── 📸 Diagrama flujo Ariyuu.png ───────> Flowchart explaining logic
-|   └── 📸 Diagrama flujo Arusha.png ───────> Flowchart explaining logic
-|   └── 📸 Diagrama flujo Joroi.png  ───────> Flowchart explaining logic
-|   └── 📸 Diagrama flujo Apiña.png  ───────> Flowchart explaining logic
+├──📁 Code Flowcharts
+|   └── 📸 Ariyuu Flowchart.png ───────> Flowchart explaining logic
+|   └── 📸 Arusha Flowchart.png ───────> Flowchart explaining logic
+|   └── 📸 Joroi Flowchart.png  ───────> Flowchart explaining logic
+|   └── 📸 Apiña Flowchart.png  ───────> Flowchart explaining logic
 |   └── 📖 Readme.md  ───────> Readme explaining platform choice, implementation, and previewer
 |
-├──📁 Diagramas y esquematico electronico
-|   └── 📁 Esquematico
-|   |   └──📁 Ariyuuu ───────> Contains internal Fritzing files alongside a PNG previewer as a Readme
+├──📁 Electronic diagrams and schematics
+|   └── 📁 Schematics
+|   |   └──📁 Ariyuu ───────> Contains internal Fritzing files alongside a PNG previewer as a Readme
 |   |   └──📁 Joroi ───────> Contains internal Fritzing files alongside a PNG previewer as a Readme
 |   |   └──📁 Arusha ───────> Contains internal Fritzing files alongside a PNG previewer as a Readme
 |   |   └──📁 Apiña ───────> Contains internal Fritzing files alongside a PNG previewer as a Readme
 |   |   └──📖 Readme.md  ───────> Fritzing configuration guide to open files correctly
 |   |
-|   └── 📁 Lista de componentes
-|       └── 🦾 Actuadores png y svg  ───────> Contains actuator list in image formats
-|       └── 🚨 Sensores png y svg  ───────> Contains sensor list in image formats
-|       └── ⚡️ Fuentes de alimentación png y svg   ───────> Contains power supply list in image formats
-|       └── 📟 Microcontroladores y microcomputadoras png y svg   ───────> Contains controller list in image formats
+|   └── 📁 Component list
+|       └── 🦾 Actuators png and svg  ───────> Contains actuator list in image formats
+|       └── 🚨 Sensors png and svg  ───────> Contains sensor list in image formats
+|       └── ⚡️ Power supplies png and svg   ───────> Contains power supply list in image formats
+|       └── 📟 Microcontrollers and microcomputers png and svg   ───────> Contains controller list in image formats
 |       └── 📖 Readme.md   ───────> Readme explaining platform, components choice, and previewer
 |
-├──📁 Diseños 3d
+├──📁 3d Designs
 |   └──📁 Ariyuu ───────> Contains design list in image format
 |   └──📁 Joroi ───────> Contains design list in image format
 |   └──📁 Arusha ───────> Contains design list in image format
@@ -64,7 +64,7 @@ Folder Structure
 |   └──📖 Readme.md ───────> Very brief explanation of the platform and previewer
 |
 |
-├──📁 Recursos de imagen
+├──📁 Resources
 |   └── 📸 All required images for the main Readme
 |
 ├──📖 Readme.md  ───────> This file; contains key information about the repository and team
