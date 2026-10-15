@@ -25,7 +25,7 @@ For the Nvidia Jetson AGX Orin, we use **Python** so we can easily run industry 
 ## Direct Image Visualization
 
 ### Apiña
-![Image](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Code%20Flowcharts/Api%C3%B1a%20flowchart.png)
+![Image]([https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Code%20Flowcharts/Api%C3%B1a%20flowchart.png](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Code%20Flowcharts/Api%C3%B1a%20flowchart.png))
 
 ### Ariyuu
 
