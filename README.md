@@ -1,5 +1,5 @@
 # Anuwa Robotics
-![Logo](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Recursos/Banner%20anuwa.png)
+![Logo](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Resources/Banner%20anuwa.png)
 ---
 ## Our Team
 The [Anuwa Robotics](https://www.instagram.com/p/DWMsaMdAgXd/) team consists of 3 students from [Salto Angel School](https://www.instagram.com/colegiosaltoangel/?hl=es). 
