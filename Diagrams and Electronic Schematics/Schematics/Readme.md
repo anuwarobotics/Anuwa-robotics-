@@ -1,21 +1,21 @@
-# Esquemas Anuwa Robotics 
+# Anuwa Robotics Schematics
 
-Para visualizar correctamente los esquemas de nuestro equipo, es necesario utilizar **Fritzing**. 
+To view our team’s schematics correctly, you must use **Fritzing**.
 
-> **Nota:** Recomendamos encarecidamente utilizar la versión **1.0.6** para evitar errores de visualización.
+> **Note:** We strongly recommend using version **1.0.6** to avoid display errors.
 
-## Guía de configuración
+## Setup Guide
 
-Para abrir los archivos correctamente, sigue estos pasos:
+To open the files correctly, follow these steps:
 
-1. **Importar componentes personalizados:**
-   - Abre un proyecto nuevo en blanco en Fritzing.
-   - Ve al panel de **"Componentes"**.
-   - Haz clic en el icono de **menú (tres líneas horizontales)** en la parte superior derecha del panel.
-   - Selecciona **"Importar"** y carga todos los archivos `.fzpz` ubicados en nuestra carpeta de componentes.
+1. **Import custom components:**
+   - Open a new blank project in Fritzing.
+   - Go to the **“Components”** panel.
+   - Click the **menu icon (three horizontal lines)** in the upper-right corner of the panel.
+   - Select **“Import”** and load all the `.fzpz` files located in our components folder.
 
-2. **Abrir el esquemático:**
-   - Una vez importados los componentes, abre el archivo principal `.fzz`.
-   - En la parte superior de la ventana, cambia la vista de **"Placa de pruebas"** a **"Esquemático"** para visualizar el diagrama desde la pestaña en que fué diseñado.
+2. **Open the schematic:**
+   - Once the components have been imported, open the main `.fzz` file.
+   - At the top of the window, switch the view from **“Breadboard”** to **“Schematic”** to view the diagram in the tab where it was designed.
 
-> De igual forma todos los esquematicos tienen *pre visualizadores* desde los cuales podran observar el png de forma mas rápida y completamente online
+> Similarly, all schematics have *previews* that allow you to view the PNG file more quickly and entirely online.

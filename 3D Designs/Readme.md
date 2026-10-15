@@ -1,9 +1,8 @@
-# Diseños 3d
+# 3D Designs
 
 
-## Plataforma
-Los diseños 3d de nuestro equipo se realizaron en el software de [**Solidworks**](https://www.solidworks.com/) debido a sus simulaciones nativas lo cual nos permitio comprobar la funcionabilidad, estabilidad y tolerancias del 
-proyecto antes de pasar al paso de la impresion 3d
+## Platform
+Our team created the 3D designs using [**SolidWorks**](https://www.solidworks.com/) software because of its native simulation capabilities, which allowed us to verify the functionality, stability, and tolerances of the project before moving on to the 3D printing stage.
 
-## Pre visualizador de ejemplo
-![Revisa tu conexion para renderizar](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Dise%C3%B1os%203d/Ariyuu/Ariyuu%205.jpeg)
+## Sample Preview
+![Check your connection to render](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Dise%C3%B1os%203d/Ariyuu/Ariyuu%205.jpeg)
