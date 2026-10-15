@@ -17,13 +17,13 @@ Among the most notable components of our project, we highlight the use of:
 ## Images of the component list
 
 ### Sensors
-![Sensors](Diagrams%20and%20Electronic%20Schematics/List%20of%20Components/PNGs/Sensors.png)  
+![Sensors](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Diagrams%20and%20Electronic%20Schematics/List%20of%20Components/PNGs/Sensors.png)
 
 ### Actuators
-![Actuators](Diagrams%20and%20Electronic%20Schematics/List%20of%20Components/PNGs/Actuators.png)
+![Actuators](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Diagrams%20and%20Electronic%20Schematics/List%20of%20Components/PNGs/Actuators.png)
 
 ### Microcontrollers and Processing Units
-![Microcontrollers and Processing Units](Diagrams%20and%20Electronic%20Schematics/List%20of%20Components/PNGs/Microcontrollers_and_Processing_Units.png)
+![Microcontrollers and Processing Units](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Diagrams%20and%20Electronic%20Schematics/List%20of%20Components/PNGs/Microcontrollers_and_Processing_Units.png)
 
 ### Power Supply
-![Power Supply](Diagrams%20and%20Electronic%20Schematics/List%20of%20Components/PNGs/Power_Systems.png)
+![Power Supply](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Diagrams%20and%20Electronic%20Schematics/List%20of%20Components/PNGs/Power_Systems.png)
