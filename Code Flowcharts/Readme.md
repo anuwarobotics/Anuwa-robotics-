@@ -36,4 +36,4 @@ For the Nvidia Jetson AGX Orin, we use **Python** so we can easily run industry 
 
 ### Joroi
 
-![Image]([https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Code%20Flowcharts/Joroi%20flowchart.png)
+![Image](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Code%20Flowcharts/Joroi%20flowchart.png)
