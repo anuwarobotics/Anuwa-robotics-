@@ -9,39 +9,39 @@ Role distribution was assigned as follows:
 - **Maria Montilla**: 12 years old, in charge of research and the business model.
 ---
 ## Table of Contents
-- [⚡ Electronic Schematics](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20y%20esquematico%20electronico/Esquematico)
-   - [💡 Ariyuu](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20y%20esquematico%20electronico/Esquematico/Ariyuu)
-   - [💡 Arusha](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20y%20esquematico%20electronico/Esquematico/Arusha)
-   - [💡 Joroi](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20y%20esquematico%20electronico/Esquematico/Joroi)
-   - [💡 Apiña](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20y%20esquematico%20electronico/Esquematico/Api%C3%B1a)
-- [🛠️ Component List](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes)
-   - [🔌 Actuators](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/Actuadores.svg)
-   - [🔌 Power Supplies](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/Fuentes%20de%20alimentacion.svg)
-   - [🔌 Microcontrollers and Microcomputers](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/Microcontroladores%20y%20microcomputadoras.svg)
-   - [🔌 Sensors](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagramas%20y%20esquematico%20electronico/Lista%20de%20componentes/Sensores.svg)
-- [💻 Code Flowcharts](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagramas%20de%20flujo%20codigos)
-   - [🖥️ Ariyuu](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagramas%20de%20flujo%20codigos/Diagrama%20flujo%20Ariyuu.png)
-   - [🖥️ Arusha](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagramas%20de%20flujo%20codigos/Diagrama%20flujo%20Arusha.png)
-   - [🖥️ Joroi](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagramas%20de%20flujo%20codigos/Diagrama%20flujo%20joroi.png)
-   - [🖥️ Apiña](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagramas%20de%20flujo%20codigos/Diagrama%20de%20flujo%20Api%C3%B1a.png)
-- [🎨 3D Designs](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Dise%C3%B1os%203d)
-   - [🤖 Ariyuu](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Dise%C3%B1os%203d/Ariyuu)
-   - [🤖 Arusha](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Dise%C3%B1os%203d/Arusha)
-   - [🤖 Joroi](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Dise%C3%B1os%203d/Joroi)
-   - [🤖 Apiña](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Dise%C3%B1os%203d/Api%C3%B1a/Api%C3%B1a%201.jpeg)
+- [⚡ Electronic Schematics](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagrams%20and%20Electronic%20Schematics/Schematics)
+   - [💡 Ariyuu](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagrams%20and%20Electronic%20Schematics/Schematics/Ariyuu)
+   - [💡 Arusha](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagrams%20and%20Electronic%20Schematics/Schematics/Arusha)
+   - [💡 Joroi](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagrams%20and%20Electronic%20Schematics/Schematics/Joroi)
+   - [💡 Apiña](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagrams%20and%20Electronic%20Schematics/Schematics/Api%C3%B1a)
+- [🛠️ Component List](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Diagrams%20and%20Electronic%20Schematics/List%20of%20Components)
+   - [🔌 Actuators](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagrams%20and%20Electronic%20Schematics/List%20of%20Components/PNGs/Actuators.png)
+   - [🔌 Power Supplies](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagrams%20and%20Electronic%20Schematics/List%20of%20Components/PNGs/Power_Systems.png)
+   - [🔌 Microcontrollers and Processing Units](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagrams%20and%20Electronic%20Schematics/List%20of%20Components/PNGs/Microcontrollers_and_Processing_Units.png)
+   - [🔌 Sensors](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Diagrams%20and%20Electronic%20Schematics/List%20of%20Components/PNGs/Sensors.png)
+- [💻 Code Flowcharts](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/Code%20Flowcharts)
+   - [🖥️ Ariyuu](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Code%20Flowcharts/Ariyuu%20flowchart.png)
+   - [🖥️ Arusha](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Code%20Flowcharts/Arusha%20flowchart.png)
+   - [🖥️ Joroi](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Code%20Flowcharts/Joroi%20flowchart.png)
+   - [🖥️ Apiña](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Code%20Flowcharts/Api%C3%B1a%20flowchart.png)
+- [🎨 3D Designs](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/3D%20Designs)
+   - [🤖 Ariyuu](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/3D%20Designs/Ariyuu)
+   - [🤖 Arusha](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/3D%20Designs/Arusha)
+   - [🤖 Joroi](https://github.com/anuwarobotics/Anuwa-robotics-/tree/main/3D%20Designs/Joroi)
+   - [🤖 Apiña](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/3D%20Designs/Api%C3%B1a/Api%C3%B1a%201.jpeg)
 
-```
+```text
 Folder Structure
 👥 Anuwa Robotics
 |
 ├──📁 Code Flowcharts
-|   └── 📸 Ariyuu Flowchart.png ───────> Flowchart explaining logic
-|   └── 📸 Arusha Flowchart.png ───────> Flowchart explaining logic
-|   └── 📸 Joroi Flowchart.png  ───────> Flowchart explaining logic
-|   └── 📸 Apiña Flowchart.png  ───────> Flowchart explaining logic
+|   └── 📸 Ariyuu flowchart.png ───────> Flowchart explaining logic
+|   └── 📸 Arusha flowchart.png ───────> Flowchart explaining logic
+|   └── 📸 Joroi flowchart.png  ───────> Flowchart explaining logic
+|   └── 📸 Apiña flowchart.png  ───────> Flowchart explaining logic
 |   └── 📖 Readme.md  ───────> Readme explaining platform choice, implementation, and previewer
 |
-├──📁 Electronic diagrams and schematics
+├──📁 Diagrams and Electronic Schematics
 |   └── 📁 Schematics
 |   |   └──📁 Ariyuu ───────> Contains internal Fritzing files alongside a PNG previewer as a Readme
 |   |   └──📁 Joroi ───────> Contains internal Fritzing files alongside a PNG previewer as a Readme
@@ -49,25 +49,22 @@ Folder Structure
 |   |   └──📁 Apiña ───────> Contains internal Fritzing files alongside a PNG previewer as a Readme
 |   |   └──📖 Readme.md  ───────> Fritzing configuration guide to open files correctly
 |   |
-|   └── 📁 Component list
-|       └── 🦾 Actuators png and svg  ───────> Contains actuator list in image formats
-|       └── 🚨 Sensors png and svg  ───────> Contains sensor list in image formats
-|       └── ⚡️ Power supplies png and svg   ───────> Contains power supply list in image formats
-|       └── 📟 Microcontrollers and microcomputers png and svg   ───────> Contains controller list in image formats
+|   └── 📁 List of Components
+|       └── 📁 PNGs  ───────> Contains actuator, sensor, power, and controller lists in PNG format
 |       └── 📖 Readme.md   ───────> Readme explaining platform, components choice, and previewer
 |
-├──📁 3d Designs
-|   └──📁 Ariyuu ───────> Contains design list in image format
-|   └──📁 Joroi ───────> Contains design list in image format
-|   └──📁 Arusha ───────> Contains design list in image format
+├──📁 3D Designs
 |   └──📁 Apiña ───────> Contains design list in image format
+|   └──📁 Ariyuu ───────> Contains design list in image format
+|   └──📁 Arusha ───────> Contains design list in image format
+|   └──📁 Joroi ───────> Contains design list in image format
 |   └──📖 Readme.md ───────> Very brief explanation of the platform and previewer
 |
 |
 ├──📁 Resources
-|   └── 📸 All required images for the main Readme
+|   └── 📸 All required images and PDFs for the main Readme
 |
-├──📖 Readme.md  ───────> This file; contains key information about the repository and team
+├──📖 README.md  ───────> This file; contains key information about the repository and team
 ```
 
 ## Our Project 
@@ -90,13 +87,12 @@ We chose to tackle this issue because robotics should neither distance us from o
 
 ## How Is Our System Composed?
 Anuwa is composed of 4 units:
+- [Arusha](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/3D%20Designs/Arusha/Arusha%201.png): Our cultural box capable of playing traditional Añú instruments, including a shaker, a *toc-toc* (simulating striking a stilt house), and a xylophone (simulating striking sea snail shells). It also features 3 types of lessons on its HMI screen, allowing users to learn about language, culture, and traditions. Arusha serves as a complement to **Joroi**.
 
-- [Arusha](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Dise%C3%B1os%203d/Arusha/Arusha%201.png): Our cultural box capable of playing traditional Añú instruments, including a shaker, a *toc-toc* (simulating striking a stilt house), and a xylophone (simulating striking sea snail shells). It also features 3 types of lessons on its HMI screen, allowing users to learn about language, culture, and traditions. Arusha serves as a complement to **Joroi**.
+- [Joroi](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/3D%20Designs/Joroi/Joroi%202.png): Our interactive flute used by the player to stimulate connectivity between auditory and motor cortices, addressing fine motor skill issues—a mechanism backed by research published by [Oxford University Press](https://academic.oup.com/cercor/article-abstract/27/5/2768/3056341?login=false).
 
-- [Joroi](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Dise%C3%B1os%203d/Joroi/Joroi%205.jpeg): Our interactive flute used by the player to stimulate connectivity between auditory and motor cortices, addressing fine motor skill issues—a mechanism backed by research published by [Oxford University Press](https://academic.oup.com/cercor/article-abstract/27/5/2768/3056341?login=false).
+- [Apiña](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/3D%20Designs/Api%C3%B1a/Api%C3%B1a%201.jpeg): Apiña, which means *palafito* (stilt house) in the Añú language, serves as our stand and an integrated component of the system. It creates an immersive experience with LED strips that dynamically adjust color based on user accuracy. Built out of wood to reflect traditional craftsmanship, it plays a looping video highlighting the importance of preserving the culture.
 
-- [Apiña](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/Diagramas%20y%20esquematico%20electronico/Esquematico/Api%C3%B1a/Api%C3%B1a_esquem%C3%A1tico.png): Apiña, which means *palafito* (stilt house) in the Añú language, serves as our stand and an integrated component of the system. It creates an immersive experience with LED strips that dynamically adjust color based on user accuracy. Built out of wood to reflect traditional craftsmanship, it plays a looping video highlighting the importance of preserving the culture.
-
-- [Ariyuu](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Dise%C3%B1os%203d/Ariyuu/Ariyuu%205.jpeg): The first humanoid robot featuring interaction levels 3 and above developed in Venezuela under [IEEE](https://ieeer8.org/category/committee/meetings/2021-march-online/) standards. According to the report [A Pathway for Future Humanoid Standards](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Recursos/IEEE-Humanoid-Report-of-Future-Standards-Development.pdf), it features 17 DOF and adopts its anthropomorphic form for two primary reasons:
-  - Local indigenous communities exhibit higher acceptance toward human-like shapes.
-  - It marks a historical milestone for our nation, fostering technological sovereignty by being developed locally.
+- [Ariyuu](https://raw.githubusercontent.com/anuwarobotics/Anuwa-robotics-/refs/heads/main/3D%20Designs/Ariyuu/Ariyuu%201.jpeg): The first humanoid robot featuring interaction levels 3 and above developed in Venezuela under [IEEE](https://ieeer8.org/category/committee/meetings/2021-march-online/) standards. According to the report [A Pathway for Future Humanoid Standards](https://github.com/anuwarobotics/Anuwa-robotics-/blob/main/Resources/IEEE-Humanoid-Report-of-Future-Standards-Development.pdf), it features 17 DOF and adopts its anthropomorphic form for two primary reasons:
+- Local indigenous communities exhibit higher acceptance toward human-like shapes.
+- It marks a historical milestone for our nation, fostering technological sovereignty by being developed locally.
