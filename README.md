@@ -60,10 +60,12 @@ Folder Structure
 |   └──📁 Joroi ───────> Contains design list in image format
 |   └──📖 Readme.md ───────> Very brief explanation of the platform and previewer
 |
-|
 ├──📁 Resources
 |   └── 📸 All required images and PDFs for the main Readme
 |
+├──📁 Mathworks Software
+|   └──📚 Anuwa_Robotics.slx ───────> .slx file used in the system
+|   └──📖 Readme.md ───────> Explanation of what we did using MathWorks software
 ├──📖 README.md  ───────> This file; contains key information about the repository and team
 ```
 
