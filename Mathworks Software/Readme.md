@@ -17,7 +17,7 @@ Acting as both an autonomous clinical diagnostician and real-time orchestrator, 
 1. **Non-Invasive Capacitive Biometric Telemetry:** Captures raw capacitive signals from the user's fingers across the flute's six note pads, treating micro-fluctuations in contact stability and transitional agility as a continuous neuromuscular data stream.
 2. **Real-Time Spectral Analysis (0–12 Hz Band):** Evaluates physical finger stability by analyzing the rate of change in touch across the **0 to 12 Hz spectrum**, isolating the three most dominant oscillation frequencies and overall movement intensity.
 3. **Autonomous Classification (0–4 Hz vs. 4–12 Hz):** Autonomously classifies the user's motor profile in real time to adapt the robotic ecosystem:
-   - **Voluntary & Physiological Motion (0 to 3.5 Hz):** Oscillations within the lower **0 to 4 Hz** spectrum are classified as healthy coordination. The system rewards adherence, advances the clinical score, and triggers synchronized robotic accompaniment.
+   - **Voluntary & Physiological Motion (0 to 4 Hz):** Oscillations within the lower **0 to 4 Hz** spectrum are classified as healthy coordination. The system rewards adherence, advances the clinical score, and triggers synchronized robotic accompaniment.
    - **Pathological Tremor & Motor Impairment (4 to 12 Hz):** Dominant peaks within **4 to 12 Hz** are autonomously flagged as motor anomalies. The system shifts the clinical gauge into the alert zone, quantifies instability severity, and adjusts gamified scoring for omissions or involuntary ghost touches.
 
 ---
